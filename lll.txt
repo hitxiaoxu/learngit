@@ -1,2 +1,4 @@
 ﻿Git is a version control system.
 Git is free software under GPL.
+Git has  powerful magic.
+Git is the best tools to manage code.
